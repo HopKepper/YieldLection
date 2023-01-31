@@ -1,0 +1,15 @@
+D:\Study\YeildLection\YeildLection\bin\Debug\net6.0\YeildLection.exe
+D:\Study\YeildLection\YeildLection\bin\Debug\net6.0\YeildLection.deps.json
+D:\Study\YeildLection\YeildLection\bin\Debug\net6.0\YeildLection.runtimeconfig.json
+D:\Study\YeildLection\YeildLection\bin\Debug\net6.0\YeildLection.dll
+D:\Study\YeildLection\YeildLection\bin\Debug\net6.0\YeildLection.pdb
+D:\Study\YeildLection\YeildLection\obj\Debug\net6.0\YeildLection.csproj.AssemblyReference.cache
+D:\Study\YeildLection\YeildLection\obj\Debug\net6.0\YeildLection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\YeildLection\YeildLection\obj\Debug\net6.0\YeildLection.AssemblyInfoInputs.cache
+D:\Study\YeildLection\YeildLection\obj\Debug\net6.0\YeildLection.AssemblyInfo.cs
+D:\Study\YeildLection\YeildLection\obj\Debug\net6.0\YeildLection.csproj.CoreCompileInputs.cache
+D:\Study\YeildLection\YeildLection\obj\Debug\net6.0\YeildLection.dll
+D:\Study\YeildLection\YeildLection\obj\Debug\net6.0\refint\YeildLection.dll
+D:\Study\YeildLection\YeildLection\obj\Debug\net6.0\YeildLection.pdb
+D:\Study\YeildLection\YeildLection\obj\Debug\net6.0\YeildLection.genruntimeconfig.cache
+D:\Study\YeildLection\YeildLection\obj\Debug\net6.0\ref\YeildLection.dll
